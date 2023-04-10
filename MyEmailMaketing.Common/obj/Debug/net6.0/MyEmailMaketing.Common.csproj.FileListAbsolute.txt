@@ -1,0 +1,15 @@
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\bin\Debug\net6.0\MyEmailMaketing.Common.deps.json
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\bin\Debug\net6.0\MyEmailMaketing.Common.dll
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\bin\Debug\net6.0\MyEmailMaketing.Common.pdb
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\bin\Debug\net6.0\MyEmailMaketing.Models.dll
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\bin\Debug\net6.0\MyEmailMaketing.Models.pdb
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.csproj.AssemblyReference.cache
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.AssemblyInfoInputs.cache
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.AssemblyInfo.cs
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.csproj.CoreCompileInputs.cache
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.csproj.CopyComplete
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.dll
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\refint\MyEmailMaketing.Common.dll
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\MyEmailMaketing.Common.pdb
+D:\Demo\MyEmailMaketing\MyEmailMaketing.Common\obj\Debug\net6.0\ref\MyEmailMaketing.Common.dll

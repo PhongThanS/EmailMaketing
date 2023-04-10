@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2Fk9TKPN7Un2TBcMGiBw89261XbNp6EUyMMUua9FLqfAOHrMKKWFgVjo5CgRLtyb+SkUBDTQsLxCdvPLHm7WQ==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\MyEmailMaketing\\MyEmailMaketing.Entities\\MyEmailMaketing.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungp\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\hungp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
